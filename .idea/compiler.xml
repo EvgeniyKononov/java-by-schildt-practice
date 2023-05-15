@@ -6,10 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="key-event-handler" />
-        <module name="mouse-handler" />
-        <module name="key-event-handler-adapter" />
+        <module name="color-methods" />
+        <module name="size-changing" />
+        <module name="java-AWT" />
+        <module name="available-fonts" />
+        <module name="draw-demo" />
+        <module name="XOR-mode" />
+        <module name="java-events-handler-ex" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="anonymus-inner-classes" target="11" />
+      <module name="inner-classes" target="11" />
+      <module name="key-event-handler" target="11" />
+      <module name="key-event-handler-adapter" target="11" />
+      <module name="mouse-handler" target="11" />
+      <module name="with-inner-classes" target="11" />
+      <module name="without-inner-classes" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

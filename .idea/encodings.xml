@@ -1,12 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/key-event-handler-adapter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/key-event-handler-adapter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/key-event-handler/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/key-event-handler/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mouse-handler/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mouse-handler/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/XOR-mode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/XOR-mode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/available-fonts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/available-fonts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/color-methods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/color-methods/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/draw-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/draw-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/size-changing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/size-changing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-AWT/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/inner-classes/anonymus-inner-classes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/inner-classes/anonymus-inner-classes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/inner-classes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/inner-classes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/inner-classes/with-inner-classes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/inner-classes/with-inner-classes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/inner-classes/without-inner-classes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/inner-classes/without-inner-classes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/key-event-handler-adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/key-event-handler-adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/key-event-handler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/key-event-handler/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/mouse-handler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/mouse-handler/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-events-handler-ex/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
