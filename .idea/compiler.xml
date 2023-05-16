@@ -10,9 +10,12 @@
         <module name="size-changing" />
         <module name="java-AWT" />
         <module name="available-fonts" />
+        <module name="fonts" />
+        <module name="text-format" />
         <module name="draw-demo" />
         <module name="XOR-mode" />
         <module name="java-events-handler-ex" />
+        <module name="font-info" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

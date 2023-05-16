@@ -16,6 +16,9 @@
         <module>java-AWT/color-methods</module>
         <module>java-AWT/XOR-mode</module>
         <module>java-AWT/available-fonts</module>
+        <module>java-AWT/fonts</module>
+        <module>java-AWT/font-info</module>
+        <module>java-AWT/text-format</module>
     </modules>
 
     <properties>
