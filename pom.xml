@@ -19,6 +19,8 @@
         <module>java-AWT/fonts</module>
         <module>java-AWT/font-info</module>
         <module>java-AWT/text-format</module>
+        <module>java-AWT/elements-of-management</module>
+        <module>java-AWT/elements-of-management/label</module>
     </modules>
 
     <properties>
