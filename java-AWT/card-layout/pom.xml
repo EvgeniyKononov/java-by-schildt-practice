@@ -10,17 +10,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>elements-of-management</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>events-from-buttons</module>
-        <module>events-from-buttons/recognize-button</module>
-        <module>check-boxes</module>
-        <module>check-boxes/check-box-group</module>
-        <module>lists</module>
-        <module>lists/lists-2</module>
-        <module>scrolls</module>
-    </modules>
+    <artifactId>card-layout</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

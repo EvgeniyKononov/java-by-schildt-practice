@@ -21,6 +21,12 @@
         <module>java-AWT/text-format</module>
         <module>java-AWT/elements-of-management</module>
         <module>java-AWT/elements-of-management/label</module>
+        <module>java-AWT/text</module>
+        <module>java-AWT/text-area</module>
+        <module>java-AWT/border-layout</module>
+        <module>java-AWT/grid-layout</module>
+        <module>java-AWT/card-layout</module>
+        <module>java-AWT/grid-bag-layout</module>
     </modules>
 
     <properties>

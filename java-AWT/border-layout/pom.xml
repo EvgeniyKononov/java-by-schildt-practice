@@ -10,16 +10,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>elements-of-management</artifactId>
+    <artifactId>border-layout</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>events-from-buttons</module>
-        <module>events-from-buttons/recognize-button</module>
-        <module>check-boxes</module>
-        <module>check-boxes/check-box-group</module>
-        <module>lists</module>
-        <module>lists/lists-2</module>
-        <module>scrolls</module>
+        <module>inserts</module>
     </modules>
 
     <properties>
