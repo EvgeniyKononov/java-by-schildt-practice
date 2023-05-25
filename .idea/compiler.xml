@@ -8,32 +8,35 @@
         <outputRelativeToContentRoot value="true" />
         <module name="color-methods" />
         <module name="card-layout" />
-        <module name="size-changing" />
-        <module name="lists-2" />
         <module name="events-from-buttons" />
         <module name="grid-layout" />
-        <module name="label" />
         <module name="check-boxes" />
-        <module name="grid-bag-layout" />
         <module name="scrolls" />
-        <module name="java-AWT" />
         <module name="available-fonts" />
-        <module name="text-area" />
         <module name="fonts" />
-        <module name="lists" />
         <module name="recognize-button" />
         <module name="text-format" />
+        <module name="text" />
+        <module name="font-info" />
+        <module name="size-changing" />
+        <module name="lists-2" />
+        <module name="label" />
+        <module name="menu" />
+        <module name="dialog-window" />
+        <module name="grid-bag-layout" />
+        <module name="java-AWT" />
+        <module name="text-area" />
+        <module name="lists" />
         <module name="draw-demo" />
         <module name="XOR-mode" />
         <module name="check-box-group" />
-        <module name="text" />
         <module name="java-events-handler-ex" />
-        <module name="font-info" />
         <module name="inserts" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="anonymus-inner-classes" target="11" />
+      <module name="image" target="11" />
       <module name="inner-classes" target="11" />
       <module name="key-event-handler" target="11" />
       <module name="key-event-handler-adapter" target="11" />

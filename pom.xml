@@ -27,6 +27,9 @@
         <module>java-AWT/grid-layout</module>
         <module>java-AWT/card-layout</module>
         <module>java-AWT/grid-bag-layout</module>
+        <module>java-AWT/menu</module>
+        <module>java-AWT/dialog-window</module>
+        <module>java-images</module>
     </modules>
 
     <properties>
