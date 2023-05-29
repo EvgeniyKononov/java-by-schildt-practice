@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="color-methods" />
         <module name="card-layout" />
+        <module name="off-screen-buffer" />
         <module name="events-from-buttons" />
         <module name="grid-layout" />
         <module name="check-boxes" />
@@ -19,10 +20,12 @@
         <module name="text" />
         <module name="font-info" />
         <module name="size-changing" />
+        <module name="image" />
         <module name="lists-2" />
         <module name="label" />
         <module name="menu" />
         <module name="dialog-window" />
+        <module name="memory-image-source" />
         <module name="grid-bag-layout" />
         <module name="java-AWT" />
         <module name="text-area" />
@@ -36,7 +39,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="anonymus-inner-classes" target="11" />
-      <module name="image" target="11" />
       <module name="inner-classes" target="11" />
       <module name="key-event-handler" target="11" />
       <module name="key-event-handler-adapter" target="11" />
