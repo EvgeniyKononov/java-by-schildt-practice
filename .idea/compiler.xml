@@ -27,17 +27,20 @@
         <module name="label" />
         <module name="filters" />
         <module name="menu" />
+        <module name="producer-concumer-with-semaphore" />
         <module name="dialog-window" />
         <module name="memory-image-source" />
         <module name="grid-bag-layout" />
         <module name="java-AWT" />
         <module name="text-area" />
         <module name="lists" />
+        <module name="semaphore" />
         <module name="draw-demo" />
         <module name="XOR-mode" />
         <module name="check-box-group" />
         <module name="java-events-handler-ex" />
         <module name="inserts" />
+        <module name="synchronization-objects" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -30,6 +30,7 @@
         <module>java-AWT/menu</module>
         <module>java-AWT/dialog-window</module>
         <module>java-images</module>
+        <module>java-parallel-programming</module>
     </modules>
 
     <properties>
