@@ -9,9 +9,11 @@
         <module name="color-methods" />
         <module name="card-layout" />
         <module name="off-screen-buffer" />
+        <module name="pixel-graber" />
         <module name="events-from-buttons" />
         <module name="grid-layout" />
         <module name="check-boxes" />
+        <module name="crop-image-filter" />
         <module name="scrolls" />
         <module name="available-fonts" />
         <module name="fonts" />
@@ -23,6 +25,7 @@
         <module name="image" />
         <module name="lists-2" />
         <module name="label" />
+        <module name="filters" />
         <module name="menu" />
         <module name="dialog-window" />
         <module name="memory-image-source" />

@@ -71,12 +71,18 @@
     <file url="file://$PROJECT_DIR$/java-events-handler-ex/mouse-handler/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-events-handler-ex/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-events-handler-ex/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-images/crop-image-filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-images/crop-image-filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-images/filters/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-images/filters/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-images/image/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-images/image/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-images/memory-image-source/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-images/memory-image-source/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-images/off-screen-buffer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-images/off-screen-buffer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-images/pixel-graber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-images/pixel-graber/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-images/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-images/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
