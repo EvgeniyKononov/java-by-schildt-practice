@@ -21,9 +21,11 @@
         <module name="text-format" />
         <module name="text" />
         <module name="font-info" />
+        <module name="cyclic_barrier" />
         <module name="size-changing" />
         <module name="image" />
         <module name="lists-2" />
+        <module name="cyclic_barrier_ex" />
         <module name="label" />
         <module name="filters" />
         <module name="menu" />
@@ -34,6 +36,7 @@
         <module name="java-AWT" />
         <module name="text-area" />
         <module name="lists" />
+        <module name="exchanger" />
         <module name="semaphore" />
         <module name="draw-demo" />
         <module name="XOR-mode" />
@@ -45,6 +48,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="anonymus-inner-classes" target="11" />
+      <module name="count-down-latch" target="11" />
       <module name="inner-classes" target="11" />
       <module name="key-event-handler" target="11" />
       <module name="key-event-handler-adapter" target="11" />

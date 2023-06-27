@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/java-parallel-programming/synchronization-objects/count-down-latch/pom.xml" />
       </list>
     </option>
   </component>

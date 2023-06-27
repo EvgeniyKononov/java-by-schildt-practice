@@ -87,6 +87,12 @@
     <file url="file://$PROJECT_DIR$/java-images/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/count-down-latch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/count-down-latch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/cyclic_barrier_ex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/cyclic_barrier_ex/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/exchanger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/exchanger/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/producer-concumer-with-semaphore/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/producer-concumer-with-semaphore/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/semaphore/src/main/java" charset="UTF-8" />
