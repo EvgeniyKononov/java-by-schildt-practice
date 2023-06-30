@@ -36,6 +36,7 @@ class MakeString implements Runnable {
             try {
                 // Exchange a full buffer for an empty one.
                 str = ex.exchange(str);
+                System.out.println("Got1: " + str);
             } catch(InterruptedException exc) {
                 System.out.println(exc);
             }
@@ -58,7 +59,7 @@ class UseString implements Runnable {
             try {
                 // Exchange an empty buffer for a full one.
                 str = ex.exchange(new String());
-                System.out.println("Got: " + str);
+                System.out.println("Got2: " + str);
             } catch(InterruptedException exc) {
                 System.out.println(exc);
             }

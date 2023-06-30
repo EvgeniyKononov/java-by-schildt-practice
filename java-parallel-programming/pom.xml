@@ -18,6 +18,10 @@
         <module>synchronization-objects/count-down-latch</module>
         <module>synchronization-objects/cyclic_barrier_ex</module>
         <module>synchronization-objects/exchanger</module>
+        <module>synchronization-objects/phaser</module>
+        <module>synchronization-objects/phaser-with-on-advance</module>
+        <module>synchronization-objects/simple-executor</module>
+        <module>synchronization-objects/executor-with-callable</module>
     </modules>
 
     <properties>

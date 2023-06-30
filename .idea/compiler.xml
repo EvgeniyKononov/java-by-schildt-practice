@@ -12,9 +12,11 @@
         <module name="pixel-graber" />
         <module name="events-from-buttons" />
         <module name="grid-layout" />
+        <module name="simple-executor" />
         <module name="check-boxes" />
         <module name="crop-image-filter" />
         <module name="scrolls" />
+        <module name="phaser" />
         <module name="available-fonts" />
         <module name="fonts" />
         <module name="recognize-button" />
@@ -25,9 +27,11 @@
         <module name="size-changing" />
         <module name="image" />
         <module name="lists-2" />
+        <module name="executor-with-callable" />
         <module name="cyclic_barrier_ex" />
         <module name="label" />
         <module name="filters" />
+        <module name="phaser-with-on-advance" />
         <module name="menu" />
         <module name="producer-concumer-with-semaphore" />
         <module name="dialog-window" />

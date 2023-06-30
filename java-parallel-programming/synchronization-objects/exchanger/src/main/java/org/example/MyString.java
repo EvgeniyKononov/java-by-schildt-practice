@@ -15,6 +15,7 @@ public class MyString implements Runnable {
                    try {
                 // Exchange a full buffer for an empty one.
                 str = ex.exchange(str);
+                       System.out.println("Got3: " + str);
             } catch(InterruptedException exc) {
                 System.out.println(exc);
             }
