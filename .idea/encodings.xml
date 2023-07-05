@@ -87,6 +87,8 @@
     <file url="file://$PROJECT_DIR$/java-images/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/atomic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/atomic/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/count-down-latch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/count-down-latch/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/cyclic_barrier_ex/src/main/java" charset="UTF-8" />
@@ -95,6 +97,8 @@
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/exchanger/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/executor-with-callable/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/executor-with-callable/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/lock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/lock/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/phaser-with-on-advance/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/phaser-with-on-advance/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/phaser/src/main/java" charset="UTF-8" />

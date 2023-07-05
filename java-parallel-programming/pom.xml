@@ -22,6 +22,8 @@
         <module>synchronization-objects/phaser-with-on-advance</module>
         <module>synchronization-objects/simple-executor</module>
         <module>synchronization-objects/executor-with-callable</module>
+        <module>synchronization-objects/lock</module>
+        <module>synchronization-objects/atomic</module>
     </modules>
 
     <properties>

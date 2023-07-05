@@ -21,6 +21,7 @@
         <module name="fonts" />
         <module name="recognize-button" />
         <module name="text-format" />
+        <module name="lock" />
         <module name="text" />
         <module name="font-info" />
         <module name="cyclic_barrier" />
@@ -41,6 +42,7 @@
         <module name="text-area" />
         <module name="lists" />
         <module name="exchanger" />
+        <module name="atomic" />
         <module name="semaphore" />
         <module name="draw-demo" />
         <module name="XOR-mode" />
