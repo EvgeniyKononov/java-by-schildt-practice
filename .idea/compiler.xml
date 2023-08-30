@@ -19,6 +19,7 @@
         <module name="phaser" />
         <module name="available-fonts" />
         <module name="fonts" />
+        <module name="fork-join-framework" />
         <module name="recognize-button" />
         <module name="text-format" />
         <module name="lock" />
@@ -30,6 +31,7 @@
         <module name="lists-2" />
         <module name="executor-with-callable" />
         <module name="cyclic_barrier_ex" />
+        <module name="fork-join-example" />
         <module name="label" />
         <module name="filters" />
         <module name="phaser-with-on-advance" />
@@ -50,6 +52,7 @@
         <module name="java-events-handler-ex" />
         <module name="inserts" />
         <module name="synchronization-objects" />
+        <module name="pfrallel-level" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

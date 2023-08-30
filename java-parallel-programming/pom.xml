@@ -24,6 +24,9 @@
         <module>synchronization-objects/executor-with-callable</module>
         <module>synchronization-objects/lock</module>
         <module>synchronization-objects/atomic</module>
+        <module>fork-join-framework</module>
+        <module>fork-join-framework/fork-join-example</module>
+        <module>fork-join-framework/pfrallel-level</module>
     </modules>
 
     <properties>
