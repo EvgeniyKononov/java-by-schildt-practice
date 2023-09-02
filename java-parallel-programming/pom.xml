@@ -27,6 +27,7 @@
         <module>fork-join-framework</module>
         <module>fork-join-framework/fork-join-example</module>
         <module>fork-join-framework/pfrallel-level</module>
+        <module>fork-join-framework/recursive-task</module>
     </modules>
 
     <properties>

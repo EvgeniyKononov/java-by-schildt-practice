@@ -31,6 +31,7 @@
         <module name="lists-2" />
         <module name="executor-with-callable" />
         <module name="cyclic_barrier_ex" />
+        <module name="recursive-task" />
         <module name="fork-join-example" />
         <module name="label" />
         <module name="filters" />
