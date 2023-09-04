@@ -31,6 +31,7 @@
         <module>java-AWT/dialog-window</module>
         <module>java-images</module>
         <module>java-parallel-programming</module>
+        <module>java-stream-API</module>
     </modules>
 
     <properties>

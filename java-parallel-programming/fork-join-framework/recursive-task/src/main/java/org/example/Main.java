@@ -57,7 +57,7 @@ class Sum extends RecursiveTask<Double> {
 class RecurTaskDemo {
     public static void main(String[] args) {
         // Create a task pool.
-      //  ForkJoinPool fjp = new ForkJoinPool();
+        ForkJoinPool fjp = new ForkJoinPool();
 
         double[] nums = new double[5001];
 

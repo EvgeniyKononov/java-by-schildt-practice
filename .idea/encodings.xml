@@ -119,6 +119,10 @@
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/simple-executor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/stream-simple-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/stream-simple-example/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
