@@ -9,6 +9,7 @@
         <module name="card-layout" />
         <module name="pixel-graber" />
         <module name="grid-layout" />
+        <module name="parallel-reduce" />
         <module name="crop-image-filter" />
         <module name="scrolls" />
         <module name="fork-join-framework" />
@@ -18,6 +19,7 @@
         <module name="text" />
         <module name="font-info" />
         <module name="cyclic_barrier" />
+        <module name="reduce" />
         <module name="size-changing" />
         <module name="image" />
         <module name="lists-2" />
@@ -32,6 +34,7 @@
         <module name="semaphore" />
         <module name="draw-demo" />
         <module name="check-box-group" />
+        <module name="collect" />
         <module name="color-methods" />
         <module name="off-screen-buffer" />
         <module name="events-from-buttons" />
@@ -40,6 +43,8 @@
         <module name="phaser" />
         <module name="available-fonts" />
         <module name="fonts" />
+        <module name="map" />
+        <module name="map-extended" />
         <module name="recursive-task" />
         <module name="label" />
         <module name="filters" />
@@ -50,6 +55,7 @@
         <module name="java-AWT" />
         <module name="text-area" />
         <module name="stream-simple-example" />
+        <module name="map-to-intstream" />
         <module name="XOR-mode" />
         <module name="java-events-handler-ex" />
         <module name="inserts" />

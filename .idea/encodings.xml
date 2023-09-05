@@ -119,6 +119,18 @@
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/simple-executor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/collect/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/collect/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/map-extended/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/map-extended/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/map-to-intstream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/map-to-intstream/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/map/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/map/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/parallel-reduce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/parallel-reduce/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/reduce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/reduce/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/stream-simple-example/src/main/java" charset="UTF-8" />
