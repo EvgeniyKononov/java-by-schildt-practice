@@ -32,6 +32,7 @@
         <module>java-images</module>
         <module>java-parallel-programming</module>
         <module>java-stream-API</module>
+        <module>java-regexp-and-other</module>
     </modules>
 
     <properties>

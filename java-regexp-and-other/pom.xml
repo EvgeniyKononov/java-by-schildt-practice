@@ -9,19 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>java-stream-API</artifactId>
+    <artifactId>java-regexp-and-other</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>stream-simple-example</module>
-        <module>reduce</module>
-        <module>parallel-reduce</module>
-        <module>map</module>
-        <module>map-extended</module>
-        <module>map-to-intstream</module>
-        <module>collect</module>
-        <module>Iterator</module>
-        <module>spliterator</module>
-        <module>spliterator-try-split</module>
+        <module>regexp-find</module>
+        <module>regexp-find-2</module>
+        <module>regexp-find-multiple</module>
     </modules>
 
     <properties>

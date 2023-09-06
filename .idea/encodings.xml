@@ -119,8 +119,18 @@
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/simple-executor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/regexp-find-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/regexp-find-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/regexp-find-multiple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/regexp-find-multiple/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/regexp-find/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/regexp-find/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/collect/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/collect/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/iterator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/iterator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/map-extended/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/map-extended/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/map-to-intstream/src/main/java" charset="UTF-8" />
@@ -131,6 +141,10 @@
     <file url="file://$PROJECT_DIR$/java-stream-API/parallel-reduce/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/reduce/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/reduce/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/spliterator-try-split/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/spliterator-try-split/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/spliterator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-API/spliterator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/stream-simple-example/src/main/java" charset="UTF-8" />

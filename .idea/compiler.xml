@@ -8,13 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="card-layout" />
         <module name="pixel-graber" />
+        <module name="regexp-find-multiple" />
         <module name="grid-layout" />
         <module name="parallel-reduce" />
         <module name="crop-image-filter" />
         <module name="scrolls" />
+        <module name="iterator" />
         <module name="fork-join-framework" />
         <module name="recognize-button" />
         <module name="text-format" />
+        <module name="regexp-find" />
         <module name="lock" />
         <module name="text" />
         <module name="font-info" />
@@ -26,6 +29,7 @@
         <module name="executor-with-callable" />
         <module name="cyclic_barrier_ex" />
         <module name="fork-join-example" />
+        <module name="spliterator" />
         <module name="memory-image-source" />
         <module name="grid-bag-layout" />
         <module name="lists" />
@@ -39,6 +43,7 @@
         <module name="off-screen-buffer" />
         <module name="events-from-buttons" />
         <module name="simple-executor" />
+        <module name="spliterator-try-split" />
         <module name="check-boxes" />
         <module name="phaser" />
         <module name="available-fonts" />
@@ -46,6 +51,7 @@
         <module name="map" />
         <module name="map-extended" />
         <module name="recursive-task" />
+        <module name="regexp-find-2" />
         <module name="label" />
         <module name="filters" />
         <module name="phaser-with-on-advance" />
