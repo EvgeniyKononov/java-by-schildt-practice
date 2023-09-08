@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/java-parallel-programming/synchronization-objects/count-down-latch/pom.xml" />
+        <option value="$PROJECT_DIR$/java-regexp-and-other/regexp-quantifier-2/pom.xml" />
       </list>
     </option>
   </component>

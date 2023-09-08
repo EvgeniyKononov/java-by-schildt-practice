@@ -15,6 +15,7 @@
         <module name="scrolls" />
         <module name="iterator" />
         <module name="fork-join-framework" />
+        <module name="regexp-replace-all" />
         <module name="recognize-button" />
         <module name="text-format" />
         <module name="regexp-find" />
@@ -28,10 +29,13 @@
         <module name="lists-2" />
         <module name="executor-with-callable" />
         <module name="cyclic_barrier_ex" />
+        <module name="reflection" />
         <module name="fork-join-example" />
         <module name="spliterator" />
+        <module name="regexp-split" />
         <module name="memory-image-source" />
         <module name="grid-bag-layout" />
+        <module name="regexp-character-class" />
         <module name="lists" />
         <module name="exchanger" />
         <module name="atomic" />
@@ -43,6 +47,7 @@
         <module name="off-screen-buffer" />
         <module name="events-from-buttons" />
         <module name="simple-executor" />
+        <module name="regexp-quantifier-3" />
         <module name="spliterator-try-split" />
         <module name="check-boxes" />
         <module name="phaser" />
@@ -62,11 +67,14 @@
         <module name="text-area" />
         <module name="stream-simple-example" />
         <module name="map-to-intstream" />
+        <module name="regexp-quantifier-1" />
         <module name="XOR-mode" />
+        <module name="regexp-quantifier-2" />
         <module name="java-events-handler-ex" />
         <module name="inserts" />
         <module name="synchronization-objects" />
         <module name="pfrallel-level" />
+        <module name="reflection-modifier" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

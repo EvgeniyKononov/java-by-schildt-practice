@@ -3,26 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>java-events-handler</artifactId>
+        <artifactId>java-regexp-and-other</artifactId>
         <groupId>org.example</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>java-regexp-and-other</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>regexp-find</module>
-        <module>regexp-find-2</module>
-        <module>regexp-find-multiple</module>
-        <module>regexp-quantifier-1</module>
-        <module>regexp-quantifier-3</module>
-        <module>regexp-character-class</module>
-        <module>regexp-replace-all</module>
-        <module>regexp-split</module>
-        <module>reflection</module>
-        <module>reflection-modifier</module>
-    </modules>
+    <artifactId>regexp-split</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

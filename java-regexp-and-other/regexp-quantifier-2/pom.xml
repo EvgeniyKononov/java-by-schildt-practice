@@ -9,20 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>java-regexp-and-other</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>regexp-find</module>
-        <module>regexp-find-2</module>
-        <module>regexp-find-multiple</module>
-        <module>regexp-quantifier-1</module>
-        <module>regexp-quantifier-3</module>
-        <module>regexp-character-class</module>
-        <module>regexp-replace-all</module>
-        <module>regexp-split</module>
-        <module>reflection</module>
-        <module>reflection-modifier</module>
-    </modules>
+    <artifactId>regexp-quantifier-2</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
