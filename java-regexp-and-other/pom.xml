@@ -22,6 +22,10 @@
         <module>regexp-split</module>
         <module>reflection</module>
         <module>reflection-modifier</module>
+        <module>rmi</module>
+        <module>date-formats</module>
+        <module>time-formats</module>
+        <module>simple-date-format</module>
     </modules>
 
     <properties>

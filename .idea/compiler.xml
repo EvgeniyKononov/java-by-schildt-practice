@@ -12,6 +12,7 @@
         <module name="grid-layout" />
         <module name="parallel-reduce" />
         <module name="crop-image-filter" />
+        <module name="rmi" />
         <module name="scrolls" />
         <module name="iterator" />
         <module name="fork-join-framework" />
@@ -20,6 +21,7 @@
         <module name="text-format" />
         <module name="regexp-find" />
         <module name="lock" />
+        <module name="time-formats" />
         <module name="text" />
         <module name="font-info" />
         <module name="cyclic_barrier" />
@@ -40,6 +42,7 @@
         <module name="exchanger" />
         <module name="atomic" />
         <module name="semaphore" />
+        <module name="date-formats" />
         <module name="draw-demo" />
         <module name="check-box-group" />
         <module name="collect" />
@@ -74,6 +77,7 @@
         <module name="inserts" />
         <module name="synchronization-objects" />
         <module name="pfrallel-level" />
+        <module name="simple-date-format" />
         <module name="reflection-modifier" />
       </profile>
     </annotationProcessing>

@@ -119,6 +119,8 @@
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/simple-executor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-parallel-programming/synchronization-objects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/date-formats/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/date-formats/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-regexp-and-other/reflection-modifier/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-regexp-and-other/reflection-modifier/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-regexp-and-other/reflection/src/main/java" charset="UTF-8" />
@@ -141,8 +143,14 @@
     <file url="file://$PROJECT_DIR$/java-regexp-and-other/regexp-replace-all/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-regexp-and-other/regexp-split/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-regexp-and-other/regexp-split/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/rmi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/rmi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/simple-date-format/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/simple-date-format/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-regexp-and-other/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-regexp-and-other/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/time-formats/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-regexp-and-other/time-formats/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/collect/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/collect/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-stream-API/iterator/src/main/java" charset="UTF-8" />
